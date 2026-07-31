@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # Erin Dougherty
 Recent graduate of Haverford College with a B.S. in Computer Science
 
